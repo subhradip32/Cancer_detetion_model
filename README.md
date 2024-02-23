@@ -2,6 +2,10 @@
 This is an internship project which was given to me on my first intership on AIML. I this project I had used the cancer detection dataset for binary classification from the kaggel database. 
 Instead of using premade CNN models I had used my own build model architecture using the tensorflow module. 
 
+## Here is an example of the dataset visualised using the matplotlib
+![image](https://github.com/subhradip32/Cancer_detetion_model/assets/83198378/2aa987e2-c387-49e7-afed-334a8edd2b22)
+
+
 # Model Creation
 **Model Description**
 ```
